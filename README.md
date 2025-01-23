@@ -33,8 +33,10 @@ The website also includes a `profile page`, accessible exclusively to logged-in 
 
 ## [Dependencies]()
 - `next` : 15.1.6
+- `@kinde-oss/kinde-auth-nextjs` : ^2.4.6
 - `react` : ^19.0.0
 - `react-dom` : ^19.0.0
+- `react-icons` : ^5.4.0
 - `react-spinners` : ^0.15.
 
 ## [Live Link](https://blog-site-next-js-six.vercel.app)
