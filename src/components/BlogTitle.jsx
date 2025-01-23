@@ -1,3 +1,4 @@
+'use client'
 import Link from "next/link"
 
 const BlogTitle = ({ blog }) => {
@@ -6,7 +7,8 @@ const BlogTitle = ({ blog }) => {
             <h1><span className="font-bold text-lg">Blog Title:</span><br />
                 <Link
                     href={`/blog/${blog.id}`}
-                >{blog.title}</Link></h1>
+                ><p 
+                className="hover:text-green-500 text-xl">{blog.title}</p></Link></h1>
 
             <div className="">
                 <Link
