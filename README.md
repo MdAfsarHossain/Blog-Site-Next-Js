@@ -1,4 +1,4 @@
-# [Blog Site]()
+# [Blog Site](https://blog-site-next-js-six.vercel.app)
 ###
 The `Blog Site` homepage features multiple blog cards, each displaying a blog title and a `View Details` button. Users can click either the title or the button to be redirected to a `dynamic blog page`, showcasing detailed content for each blog.
 
@@ -31,10 +31,10 @@ The website also includes a `profile page`, accessible exclusively to logged-in 
 - Kinde
 
 
-## [Dependices]()
+## [Dependencies]()
 - `next` : 15.1.6
 - `react` : ^19.0.0
 - `react-dom` : ^19.0.0
 - `react-spinners` : ^0.15.
 
-## [Live Link]()
+## [Live Link](https://blog-site-next-js-six.vercel.app)
