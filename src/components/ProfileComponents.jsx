@@ -15,7 +15,6 @@ const ProfileComponents = () => {
                 <p>{user.given_name}</p>
                 <p>{user.family_name}</p>
                 <p>{user.email}</p>
-
                 </>
             } */}
         </div>
